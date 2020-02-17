@@ -1,5 +1,5 @@
 # Uncovering Bias, An Analysis of Political News Articles 
-NLP and sentiment analysis of articles from left vs right-leaning news outlets (Politico and Newsmax).
+An NLP and sentiment analysis of articles and politcal figures from left vs right-leaning news outlets (Politico and Newsmax).
 
 Link to deck: https://docs.google.com/presentation/d/1L0c08jxwkTkid-FPhYRaMXu5D-l7-CQ7nAtXViMS1Ac/edit?usp=sharing
 
